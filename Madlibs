@@ -1,1 +1,12 @@
-print("Hello")
+color1 = input("Choose a color ")
+color2 = input("Choose another color ")
+verb1 = input("Choose an action ")
+verb2 = input("Choose another action ")
+name = input("Choose a last name ")
+
+
+
+
+
+print("I was walking down the street collecting candy at night when i tripped over a strange "+ color1 + " box. I then picked up the item and it was leaking a strange "+ color2 + " substance. I then went to knock on Mr. and Mrs. "+ name +" To see if they knew what the strange box was")
+
